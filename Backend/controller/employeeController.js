@@ -1,5 +1,4 @@
-// backend/src/controllers/employeeController.js
-const Employee = require('../models/Employee');
+const Employee = require('../model/Employee');
 
 exports.getAllEmployees = async (req, res) => {
   try {
