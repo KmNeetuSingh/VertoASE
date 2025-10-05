@@ -1,5 +1,10 @@
 # Employee Management System 
 
+
+###  Live Demo
+
+[Watch the Live Demo](https://www.loom.com/share/92a45f0f571b4f50b6358d661b2b2293?sid=7d0c7081-4fee-4ea5-94c2-9504d8d0791b)
+
 ## Overview
 A full-stack CRUD application with React frontend, Node.js/Express backend, and MongoDB database for managing employee records.
 
