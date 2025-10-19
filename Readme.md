@@ -1,7 +1,7 @@
 # Employee Management System 
 
 ## Overview
-A full-stack CRUD application with React frontend, Node.js/Express backend, and MongoDB database for managing employee records.
+A full-stack CRUD application with React frontend, Node.js/Express backend, and MongoDB database for managing employee data.
 
 ---
 
